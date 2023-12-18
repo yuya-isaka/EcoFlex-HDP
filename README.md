@@ -50,7 +50,7 @@ We would greatly appreciate it if you could kindly acknowledge our tool in your 
 @inproceedings{IsakaSIS2023,
    title={EcoFlex-HDP: High-Speed and Low-Power and Programmable Hyperdimensional-Computing Platform with CPU Co-processing},
    author={Yuya Isaka and Nau Sakaguchi and Michiko Inoue and Michihiro Shintani},
-   booktitle={Design, Automation and Test in Europe (DATE)},
+   booktitle={Proceedings of the Conference on Design, Automation \& Test in Europe (DATE)},
    year={2023}
 }
 ````
