@@ -42,3 +42,15 @@ This directory contains test codes used in our experiments and is divided into t
 - `micro-benchmark`: Contains benchmarking code to evaluate the performance of EcoFlex-HDP and is divided into:
   - `benchmark-CPU`: C code for benchmarking HDC operations on a CPU.
   - `benchmark-HDP`: C code for benchmarking HDC operations on EcoFlex-HDP.
+
+## Reference
+
+We would greatly appreciate it if you could kindly acknowledge our tool in your research by referencing the following publications:
+````
+@inproceedings{IsakaSIS2023,
+   title={EcoFlex-HDP: High-Speed and Low-Power and Programmable Hyperdimensional-Computing Platform with CPU Co-processing},
+   author={Yuya Isaka and Nau Sakaguchi and Michiko Inoue and Michihiro Shintani},
+   booktitle={Design, Automation and Test in Europe (DATE)},
+   year={2023}
+}
+````
