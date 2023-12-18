@@ -16,14 +16,14 @@ EcoFlex-HDP/
 |   |-- [Test codes]
 |
 |-- test/
-|   |-- application/
-|   |   |-- Image/
-|   |   |-- Language/
-|   |   |-- Voice/
-|   |
-|   |-- micro-benchmark/
-|       |-- benchmark-CPU/
-|       |-- benchmark-HDP/
+    |-- application/
+    |   |-- Image/
+    |   |-- Language/
+    |   |-- Voice/
+    |
+    |-- micro-benchmark/
+        |-- benchmark-CPU/
+        |-- benchmark-HDP/
 ```
 
 ### `src` Directory
