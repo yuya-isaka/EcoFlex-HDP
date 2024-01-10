@@ -47,10 +47,10 @@ This directory contains test codes used in our experiments and is divided into t
 
 We would greatly appreciate it if you could kindly acknowledge our tool in your research by referencing the following publications:
 ````
-@inproceedings{IsakaSIS2023Date,
+@inproceedings{IsakaSIS2024Date,
    title={EcoFlex-HDP: High-Speed and Low-Power and Programmable Hyperdimensional-Computing Platform with CPU Co-processing},
    author={Yuya Isaka and Nau Sakaguchi and Michiko Inoue and Michihiro Shintani},
    booktitle={Proceedings of the Conference on Design, Automation \& Test in Europe (DATE)},
-   year={2023}
+   year={2024}
 }
 ````
