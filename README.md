@@ -28,7 +28,7 @@ EcoFlex-HDP/
 
 ### `src` Directory
 
-This directory contains the SystemVerilog and Verilog files for implementing the HDC processing unit (HPU) on FPGA. It also contains test codes for these implementations.
+This directory contains the System Verilog and Verilog files for implementing the HDC processing unit (HPU) on FPGA. It also contains test codes for these implementations.
 
 ### `test` Directory
 
@@ -40,7 +40,7 @@ This directory contains test codes used in our experiments and is divided into t
   - `Voice`: C code for voice recognition tasks.
 
 - `micro-benchmark`: Contains benchmarking code to evaluate the performance of EcoFlex-HDP and is divided into:
-  - `benchmark-CPU`: C code for benchmarking HDC operations on a CPU.
+  - `benchmark-CPU`: C code for benchmarking HDC operations on CPU.
   - `benchmark-HDP`: C code for benchmarking HDC operations on EcoFlex-HDP.
 
 ## Reference
